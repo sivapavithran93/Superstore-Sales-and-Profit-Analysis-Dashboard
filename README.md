@@ -1,5 +1,7 @@
 # Superstore-Sales-and-Profit-Analysis-Dashboard
 
+   - Created an interactive dashboard to analyze and visualize sales and profi t data from the Superstore Dataset,enabling stakeholders to make data-driven decisions and improve business insights.
+
 ## Key Achievements:
 
    1) Interactive Dashboard Development:
@@ -41,10 +43,4 @@
         - Provided actionable recommendations based on the insights generated from the dashboard.
         - such as optimizing inventory levels, adjusting pricing strategies, or focusing marketing efforts on high-performing regions or products.
      
-    
-  <img src="C:\Users\sivap\Documents\GitHub\Profit Analysis.png" alt="Profit Analysis" >
   
-  <img src="![Screenshot 2024-10-05 131725](https://github.com/user-attachments/assets/f7c8fb20-4ad2-4a74-8315-de82f5ca56c7)" alt="Sales Analysis" >
-  
-
-  <img src="" alt="Quantity Analysis" >
