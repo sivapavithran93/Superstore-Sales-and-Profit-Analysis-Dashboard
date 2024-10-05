@@ -42,7 +42,7 @@
         - such as optimizing inventory levels, adjusting pricing strategies, or focusing marketing efforts on high-performing regions or products.
      
     
-  <img src="" alt="Profit Analysis" >
+  <img src="C:\Users\sivap\Documents\GitHub\Profit Analysis.png" alt="Profit Analysis" >
   
   <img src="" alt="Sales Analysis" >
   ![Screenshot 2024-10-05 131725](https://github.com/user-attachments/assets/f7c8fb20-4ad2-4a74-8315-de82f5ca56c7)
